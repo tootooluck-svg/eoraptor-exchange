@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Home",
+    "download": "Download",
+    "docs": "Docs"
+  },
+  "hero": {
+    "title": "Eoraptor Exchange",
+    "subtitle": "Secure and Efficient Digital Asset Trading Platform",
+    "cta": "Start Trading"
+  },
+  "download": {
+    "title": "Download Center",
+    "whitepaper": "Whitepaper",
+    "manual": "User Manual"
+  }
+}

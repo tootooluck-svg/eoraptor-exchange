@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Eoraptor Skeleton Stylized -->
+  <g stroke="#00e19b" stroke-width="2" fill="none" opacity="0.8">
+    <!-- Body spine -->
+    <path d="M80 180 Q120 160 160 165 Q200 170 240 160 Q280 150 320 140" stroke-width="3"/>
+    
+    <!-- Neck -->
+    <path d="M80 180 Q70 150 75 120 Q80 90 100 70"/>
+    
+    <!-- Head -->
+    <ellipse cx="105" cy="65" rx="25" ry="15"/>
+    <path d="M125 60 L145 55 L140 70 Z"/>
+    
+    <!-- Tail -->
+    <path d="M320 140 Q360 130 380 120"/>
+    
+    <!-- Front legs -->
+    <path d="M140 165 L135 200 L125 210"/>
+    <path d="M140 165 L150 195 L160 205"/>
+    
+    <!-- Back legs -->
+    <path d="M260 155 L255 190 L240 210"/>
+    <path d="M260 155 L275 185 L290 200"/>
+    
+    <!-- Ribs -->
+    <path d="M160 165 Q165 185 160 195"/>
+    <path d="M180 166 Q185 186 180 196"/>
+    <path d="M200 167 Q205 187 200 197"/>
+    <path d="M220 165 Q225 185 220 195"/>
+    
+    <!-- Leg bones detail -->
+    <path d="M135 200 L145 205"/>
+    <path d="M150 195 L140 200"/>
+    <path d="M255 190 L265 195"/>
+    <path d="M275 185 L265 188"/>
+  </g>
+  
+  <!-- Glow effect -->
+  <circle cx="200" cy="150" r="120" fill="url(#glow)" opacity="0.1"/>
+  
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00e19b"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+</svg>

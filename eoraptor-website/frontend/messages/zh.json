@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "首页",
+    "download": "下载",
+    "docs": "文档"
+  },
+  "hero": {
+    "title": "Eoraptor 交易所",
+    "subtitle": "安全、高效的数字资产交易平台",
+    "cta": "开始交易"
+  },
+  "download": {
+    "title": "下载中心",
+    "whitepaper": "白皮书",
+    "manual": "操作手册"
+  }
+}
